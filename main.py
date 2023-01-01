@@ -169,7 +169,7 @@ class Flatland:
         for obj in self.objects:
              print(f'Object {obj.name}: x = {obj.x}, y = {obj.y}, vx = {obj.vx}, vy = {obj.vy}, mass = {obj.mass}')
 
-        # create a Flatland instance with a width and height of 100
+        # create a Flatland instance with a width and height of 100.
 
 flatland_sim = Flatland(100, 100)
 
