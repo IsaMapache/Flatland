@@ -2304,3 +2304,1560 @@ Object 659 was destroyed!
 Object 616 was destroyed! 
 Object 648 was destroyed! 
 Object 575 was destroyed! 
+Object 684 was destroyed! 
+Object 686 collided with object 685! 
+Object 686 collided with object 685! 
+Object 686 collided with object 685! 
+Object 687 was destroyed! 
+Object 688 collided with object 689! 
+Object 689 collided with object 688! 
+Object 689 was destroyed! 
+Object 690 collided with object 691! 
+Object 691 collided with object 690! 
+Object 690 was destroyed! 
+Object 692 collided with object 691! 
+Object 691 was destroyed! 
+Object 692 was destroyed! 
+Object 694 was destroyed! 
+Object 695 was destroyed! 
+Object 697 collided with object 696! 
+Object 697 was destroyed! 
+Object 698 collided with object 699! 
+Object 699 was destroyed! 
+Object 700 collided with object 701! 
+Object 701 collided with object 700! 
+Object 700 was destroyed! 
+Object 702 collided with object 701! 
+Object 701 was destroyed! 
+Object 703 collided with object 702! 
+Object 702 was destroyed! 
+Object 704 collided with object 703! 
+Object 703 was destroyed! 
+Object 705 collided with object 704! 
+Object 704 was destroyed! 
+Object 706 collided with object 705! 
+Object 705 was destroyed! 
+Object 707 collided with object 706! 
+Object 706 was destroyed! 
+Object 708 collided with object 707! 
+Object 707 collided with object 708! 
+Object 707 collided with object 709! 
+Object 708 was destroyed! 
+Object 709 collided with object 710! 
+Object 710 collided with object 707! 
+Object 707 collided with object 710! 
+Object 709 was destroyed! 
+Object 711 collided with object 707! 
+Object 711 collided with object 710! 
+Object 710 collided with object 707! 
+Object 710 collided with object 711! 
+Object 711 collided with object 707! 
+Object 711 collided with object 710! 
+Object 707 collided with object 710! 
+Object 707 collided with object 711! 
+Object 710 collided with object 707! 
+Object 710 collided with object 711! 
+Object 711 collided with object 707! 
+Object 712 was destroyed! 
+Object 707 collided with object 710! 
+Object 707 collided with object 711! 
+Object 710 collided with object 707! 
+Object 714 collided with object 713! 
+Object 707 collided with object 710! 
+Object 710 collided with object 707! 
+Object 713 was destroyed! 
+Object 707 collided with object 710! 
+Object 714 was destroyed! 
+Object 715 was destroyed! 
+Object 716 was destroyed! 
+Object 718 was destroyed! 
+Object 719 was destroyed! 
+Object 721 collided with object 720! 
+Object 720 was destroyed! 
+Object 721 was destroyed! 
+Object 722 was destroyed! 
+Object 724 collided with object 723! 
+Object 723 was destroyed! 
+Object 724 was destroyed! 
+Object 725 was destroyed! 
+Object 727 collided with object 726! 
+Object 726 collided with object 727! 
+Object 726 collided with object 728! 
+Object 727 was destroyed! 
+Object 726 collided with object 728! 
+Object 726 collided with object 729! 
+Object 728 collided with object 726! 
+Object 728 collided with object 729! 
+Object 729 collided with object 726! 
+Object 726 collided with object 728! 
+Object 726 collided with object 730! 
+Object 728 was destroyed! 
+Object 730 collided with object 729! 
+Object 730 collided with object 729! 
+Object 730 collided with object 729! 
+Object 731 collided with object 732! 
+Object 732 collided with object 731! 
+Object 730 collided with object 729! 
+Object 731 collided with object 732! 
+Object 731 collided with object 733! 
+Object 732 was destroyed! 
+Object 730 collided with object 729! 
+Object 731 collided with object 733! 
+Object 731 collided with object 734! 
+Object 733 collided with object 726! 
+Object 734 collided with object 731! 
+Object 730 collided with object 729! 
+Object 731 collided with object 733! 
+Object 731 collided with object 734! 
+Object 731 collided with object 735! 
+Object 733 collided with object 726! 
+Object 734 was destroyed! 
+Object 726 collided with object 733! 
+Object 730 collided with object 729! 
+Object 731 collided with object 735! 
+Object 731 collided with object 736! 
+Object 735 collided with object 731! 
+Object 735 collided with object 736! 
+Object 736 collided with object 731! 
+Object 736 collided with object 735! 
+Object 730 collided with object 729! 
+Object 731 collided with object 735! 
+Object 731 collided with object 736! 
+Object 731 collided with object 737! 
+Object 735 was destroyed! 
+Object 731 collided with object 736! 
+Object 731 collided with object 738! 
+Object 736 was destroyed! 
+Object 738 collided with object 737! 
+Object 731 collided with object 739! 
+Object 737 was destroyed! 
+Object 731 collided with object 740! 
+Object 738 was destroyed! 
+Object 740 collided with object 731! 
+Object 740 collided with object 739! 
+Object 731 collided with object 740! 
+Object 731 collided with object 741! 
+Object 739 was destroyed! 
+Object 741 collided with object 731! 
+Object 731 collided with object 741! 
+Object 731 collided with object 742! 
+Object 740 was destroyed! 
+Object 731 collided with object 741! 
+Object 741 collided with object 731! 
+Object 742 was destroyed! 
+Object 731 collided with object 741! 
+Object 741 collided with object 731! 
+Object 729 collided with object 707! 
+Object 731 collided with object 741! 
+Object 744 was destroyed! 
+Object 729 collided with object 707! 
+Object 745 collided with object 731! 
+Object 707 collided with object 729! 
+Object 729 collided with object 707! 
+Object 731 collided with object 745! 
+Object 746 was destroyed! 
+Object 707 collided with object 729! 
+Object 729 collided with object 707! 
+Object 747 collided with object 748! 
+Object 748 collided with object 747! 
+Object 707 collided with object 729! 
+Object 747 was destroyed! 
+Object 749 collided with object 731! 
+Object 731 collided with object 749! 
+Object 749 was destroyed! 
+Object 750 collided with object 751! 
+Object 750 was destroyed! 
+Object 752 collided with object 751! 
+Object 751 was destroyed! 
+Object 752 was destroyed! 
+Object 754 was destroyed! 
+Object 755 collided with object 756! 
+Object 755 was destroyed! 
+Object 757 collided with object 756! 
+Object 756 was destroyed! 
+Object 757 was destroyed! 
+Object 753 collided with object 726! 
+Object 759 was destroyed! 
+Object 726 collided with object 753! 
+Object 753 collided with object 726! 
+Object 761 collided with object 760! 
+Object 726 collided with object 753! 
+Object 761 collided with object 760! 
+Object 762 was destroyed! 
+Object 761 collided with object 731! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 731 collided with object 761! 
+Object 761 collided with object 731! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 731 collided with object 761! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 765 was destroyed! 
+Object 763 collided with object 731! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 766 collided with object 767! 
+Object 767 collided with object 766! 
+Object 731 collided with object 763! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 767 was destroyed! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 768 collided with object 769! 
+Object 769 collided with object 768! 
+Object 758 collided with object 726! 
+Object 763 collided with object 764! 
+Object 764 collided with object 763! 
+Object 768 was destroyed! 
+Object 770 collided with object 769! 
+Object 726 collided with object 758! 
+Object 758 collided with object 726! 
+Object 764 collided with object 763! 
+Object 769 was destroyed! 
+Object 726 collided with object 758! 
+Object 758 collided with object 726! 
+Object 770 collided with object 772! 
+Object 771 was destroyed! 
+Object 726 collided with object 758! 
+Object 772 collided with object 773! 
+Object 773 collided with object 770! 
+Object 773 collided with object 772! 
+Object 726 collided with object 758! 
+Object 772 was destroyed! 
+Object 773 collided with object 770! 
+Object 774 was destroyed! 
+Object 763 collided with object 761! 
+Object 773 collided with object 770! 
+Object 775 collided with object 776! 
+Object 776 collided with object 775! 
+Object 763 collided with object 761! 
+Object 773 collided with object 770! 
+Object 775 was destroyed! 
+Object 777 collided with object 776! 
+Object 763 collided with object 761! 
+Object 773 collided with object 770! 
+Object 776 was destroyed! 
+Object 763 collided with object 761! 
+Object 777 was destroyed! 
+Object 763 collided with object 761! 
+Object 778 was destroyed! 
+Object 763 collided with object 761! 
+Object 780 was destroyed! 
+Object 763 collided with object 761! 
+Object 763 collided with object 761! 
+Object 781 was destroyed! 
+Object 763 collided with object 761! 
+Object 782 was destroyed! 
+Object 763 collided with object 761! 
+Object 783 was destroyed! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 685 was destroyed! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 773 collided with object 726! 
+Object 726 collided with object 773! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 773 collided with object 726! 
+Object 726 collided with object 773! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 773 collided with object 726! 
+Object 726 collided with object 773! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 773 collided with object 726! 
+Object 726 collided with object 773! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 773 collided with object 726! 
+Object 726 collided with object 773! 
+Object 761 collided with object 763! 
+Object 763 collided with object 761! 
+Object 761 collided with object 763! 
+Object 761 collided with object 763! 
+Object 761 collided with object 763! 
+Object 688 was destroyed! 
+Object 761 collided with object 763! 
+Object 761 collided with object 763! 
+Object 761 collided with object 763! 
+Object 696 was destroyed! 
+Object 761 collided with object 763! 
+Object 761 collided with object 763! 
+Object 711 was destroyed! 
+Object 761 collided with object 763! 
+Object 686 was destroyed! 
+Object 710 was destroyed! 
+Object 698 was destroyed! 
+Object 693 was destroyed! 
+Object 729 was destroyed! 
+Object 733 was destroyed! 
+Object 717 was destroyed! 
+Object 730 was destroyed! 
+Object 743 was destroyed! 
+Object 745 was destroyed! 
+Object 753 was destroyed! 
+Object 748 was destroyed! 
+Object 760 was destroyed! 
+Object 758 was destroyed! 
+Object 741 was destroyed! 
+Object 763 was destroyed! 
+Object 766 was destroyed! 
+Object 764 was destroyed! 
+Object 761 was destroyed! 
+Object 773 was destroyed! 
+Object 707 was destroyed! 
+Object 779 was destroyed! 
+Object 770 was destroyed! 
+Object 726 was destroyed! 
+Object 731 was destroyed! 
+Object 784 was destroyed! 
+Object 785 collided with object 786! 
+Object 786 collided with object 785! 
+Object 785 was destroyed! 
+Object 787 collided with object 786! 
+Object 786 was destroyed! 
+Object 787 was destroyed! 
+Object 789 collided with object 788! 
+Object 788 was destroyed! 
+Object 789 was destroyed! 
+Object 790 was destroyed! 
+Object 792 was destroyed! 
+Object 793 collided with object 794! 
+Object 794 collided with object 793! 
+Object 793 collided with object 794! 
+Object 793 collided with object 795! 
+Object 794 was destroyed! 
+Object 795 collided with object 796! 
+Object 796 collided with object 795! 
+Object 795 was destroyed! 
+Object 796 was destroyed! 
+Object 797 was destroyed! 
+Object 798 was destroyed! 
+Object 799 was destroyed! 
+Object 801 collided with object 800! 
+Object 800 was destroyed! 
+Object 802 was destroyed! 
+Object 803 collided with object 804! 
+Object 803 was destroyed! 
+Object 805 collided with object 804! 
+Object 804 was destroyed! 
+Object 805 was destroyed! 
+Object 807 collided with object 806! 
+Object 806 was destroyed! 
+Object 808 collided with object 807! 
+Object 807 was destroyed! 
+Object 809 was destroyed! 
+Object 810 collided with object 808! 
+Object 810 collided with object 811! 
+Object 811 collided with object 810! 
+Object 810 collided with object 808! 
+Object 811 collided with object 810! 
+Object 812 collided with object 811! 
+Object 810 collided with object 808! 
+Object 811 collided with object 810! 
+Object 812 collided with object 811! 
+Object 808 collided with object 810! 
+Object 810 collided with object 808! 
+Object 812 collided with object 811! 
+Object 813 was destroyed! 
+Object 808 collided with object 810! 
+Object 810 collided with object 808! 
+Object 812 collided with object 811! 
+Object 814 collided with object 815! 
+Object 808 collided with object 810! 
+Object 810 collided with object 808! 
+Object 815 was destroyed! 
+Object 808 collided with object 810! 
+Object 816 collided with object 817! 
+Object 817 collided with object 816! 
+Object 808 collided with object 810! 
+Object 816 was destroyed! 
+Object 818 collided with object 817! 
+Object 808 collided with object 810! 
+Object 817 was destroyed! 
+Object 818 was destroyed! 
+Object 819 was destroyed! 
+Object 820 was destroyed! 
+Object 822 collided with object 821! 
+Object 821 collided with object 823! 
+Object 822 was destroyed! 
+Object 823 collided with object 824! 
+Object 824 collided with object 823! 
+Object 810 collided with object 793! 
+Object 823 collided with object 825! 
+Object 824 was destroyed! 
+Object 810 collided with object 793! 
+Object 823 collided with object 825! 
+Object 823 collided with object 826! 
+Object 825 collided with object 826! 
+Object 826 collided with object 825! 
+Object 793 collided with object 810! 
+Object 823 collided with object 827! 
+Object 825 was destroyed! 
+Object 827 collided with object 823! 
+Object 793 collided with object 810! 
+Object 823 collided with object 827! 
+Object 826 was destroyed! 
+Object 828 collided with object 823! 
+Object 828 collided with object 827! 
+Object 823 collided with object 827! 
+Object 823 collided with object 828! 
+Object 827 collided with object 823! 
+Object 828 was destroyed! 
+Object 823 collided with object 827! 
+Object 827 collided with object 823! 
+Object 823 collided with object 827! 
+Object 827 collided with object 823! 
+Object 829 was destroyed! 
+Object 823 collided with object 827! 
+Object 830 was destroyed! 
+Object 831 was destroyed! 
+Object 833 was destroyed! 
+Object 834 collided with object 835! 
+Object 835 collided with object 834! 
+Object 834 was destroyed! 
+Object 836 collided with object 835! 
+Object 835 was destroyed! 
+Object 837 collided with object 836! 
+Object 836 was destroyed! 
+Object 837 was destroyed! 
+Object 838 was destroyed! 
+Object 832 collided with object 821! 
+Object 839 was destroyed! 
+Object 832 collided with object 821! 
+Object 841 was destroyed! 
+Object 821 collided with object 832! 
+Object 842 collided with object 843! 
+Object 821 collided with object 832! 
+Object 840 collided with object 823! 
+Object 842 was destroyed! 
+Object 823 collided with object 840! 
+Object 840 collided with object 823! 
+Object 843 was destroyed! 
+Object 845 collided with object 844! 
+Object 823 collided with object 840! 
+Object 845 collided with object 844! 
+Object 846 was destroyed! 
+Object 847 collided with object 848! 
+Object 848 collided with object 847! 
+Object 847 was destroyed! 
+Object 849 collided with object 848! 
+Object 848 was destroyed! 
+Object 850 collided with object 849! 
+Object 849 was destroyed! 
+Object 851 collided with object 850! 
+Object 850 was destroyed! 
+Object 851 was destroyed! 
+Object 852 was destroyed! 
+Object 854 was destroyed! 
+Object 855 collided with object 856! 
+Object 856 was destroyed! 
+Object 857 collided with object 858! 
+Object 858 collided with object 857! 
+Object 857 was destroyed! 
+Object 859 collided with object 858! 
+Object 858 collided with object 859! 
+Object 858 collided with object 860! 
+Object 859 was destroyed! 
+Object 853 collided with object 823! 
+Object 860 collided with object 861! 
+Object 861 collided with object 858! 
+Object 823 collided with object 853! 
+Object 853 collided with object 823! 
+Object 860 was destroyed! 
+Object 862 collided with object 858! 
+Object 862 collided with object 861! 
+Object 823 collided with object 853! 
+Object 858 collided with object 862! 
+Object 861 was destroyed! 
+Object 832 collided with object 808! 
+Object 862 collided with object 858! 
+Object 863 was destroyed! 
+Object 832 collided with object 808! 
+Object 858 collided with object 862! 
+Object 862 collided with object 858! 
+Object 864 collided with object 865! 
+Object 808 collided with object 832! 
+Object 832 collided with object 808! 
+Object 858 collided with object 862! 
+Object 862 collided with object 858! 
+Object 864 collided with object 858! 
+Object 865 was destroyed! 
+Object 808 collided with object 832! 
+Object 832 collided with object 808! 
+Object 858 collided with object 862! 
+Object 864 collided with object 858! 
+Object 866 collided with object 867! 
+Object 867 collided with object 866! 
+Object 808 collided with object 832! 
+Object 858 collided with object 864! 
+Object 864 collided with object 858! 
+Object 808 collided with object 832! 
+Object 858 collided with object 864! 
+Object 867 collided with object 858! 
+Object 858 collided with object 864! 
+Object 858 collided with object 867! 
+Object 867 collided with object 858! 
+Object 858 collided with object 867! 
+Object 870 was destroyed! 
+Object 858 collided with object 867! 
+Object 871 collided with object 872! 
+Object 867 collided with object 864! 
+Object 872 was destroyed! 
+Object 867 collided with object 864! 
+Object 867 collided with object 823! 
+Object 867 collided with object 864! 
+Object 874 was destroyed! 
+Object 823 collided with object 867! 
+Object 867 collided with object 823! 
+Object 867 collided with object 864! 
+Object 875 collided with object 876! 
+Object 876 collided with object 875! 
+Object 823 collided with object 867! 
+Object 875 was destroyed! 
+Object 877 collided with object 876! 
+Object 823 collided with object 867! 
+Object 876 was destroyed! 
+Object 877 was destroyed! 
+Object 879 collided with object 878! 
+Object 878 was destroyed! 
+Object 879 was destroyed! 
+Object 881 collided with object 880! 
+Object 881 was destroyed! 
+Object 873 collided with object 864! 
+Object 873 collided with object 864! 
+Object 873 collided with object 864! 
+Object 873 collided with object 864! 
+Object 864 collided with object 873! 
+Object 873 collided with object 864! 
+Object 864 collided with object 873! 
+Object 873 collided with object 864! 
+Object 864 collided with object 873! 
+Object 801 was destroyed! 
+Object 864 collided with object 873! 
+Object 864 collided with object 873! 
+Object 864 collided with object 873! 
+Object 864 collided with object 873! 
+Object 810 was destroyed! 
+Object 791 was destroyed! 
+Object 814 was destroyed! 
+Object 832 was destroyed! 
+Object 840 was destroyed! 
+Object 873 was destroyed! 
+Object 811 was destroyed! 
+Object 866 was destroyed! 
+Object 869 was destroyed! 
+Object 808 was destroyed! 
+Object 867 was destroyed! 
+Object 812 was destroyed! 
+Object 845 was destroyed! 
+Object 855 was destroyed! 
+Object 864 was destroyed! 
+Object 871 was destroyed! 
+Object 853 was destroyed! 
+Object 844 was destroyed! 
+Object 868 was destroyed! 
+Object 862 was destroyed! 
+Object 793 was destroyed! 
+Object 827 was destroyed! 
+Object 821 was destroyed! 
+Object 880 was destroyed! 
+Object 858 was destroyed! 
+Object 882 was destroyed! 
+Object 823 was destroyed! 
+Object 884 was destroyed! 
+Object 885 collided with object 886! 
+Object 886 collided with object 885! 
+Object 885 was destroyed! 
+Object 886 was destroyed! 
+Object 888 collided with object 887! 
+Object 887 collided with object 889! 
+Object 888 was destroyed! 
+Object 889 collided with object 890! 
+Object 890 collided with object 889! 
+Object 889 was destroyed! 
+Object 890 was destroyed! 
+Object 891 was destroyed! 
+Object 892 was destroyed! 
+Object 893 was destroyed! 
+Object 895 collided with object 894! 
+Object 894 was destroyed! 
+Object 896 collided with object 895! 
+Object 895 was destroyed! 
+Object 897 collided with object 896! 
+Object 896 was destroyed! 
+Object 897 was destroyed! 
+Object 899 collided with object 898! 
+Object 898 collided with object 899! 
+Object 899 collided with object 898! 
+Object 900 collided with object 898! 
+Object 900 collided with object 899! 
+Object 898 collided with object 899! 
+Object 898 collided with object 900! 
+Object 899 collided with object 898! 
+Object 900 collided with object 898! 
+Object 900 collided with object 899! 
+Object 898 collided with object 899! 
+Object 898 collided with object 900! 
+Object 899 collided with object 898! 
+Object 900 collided with object 898! 
+Object 900 collided with object 899! 
+Object 901 was destroyed! 
+Object 898 collided with object 899! 
+Object 898 collided with object 900! 
+Object 898 collided with object 899! 
+Object 898 collided with object 900! 
+Object 903 was destroyed! 
+Object 898 collided with object 899! 
+Object 904 collided with object 905! 
+Object 898 collided with object 899! 
+Object 904 was destroyed! 
+Object 906 collided with object 905! 
+Object 905 was destroyed! 
+Object 907 collided with object 906! 
+Object 906 was destroyed! 
+Object 908 collided with object 907! 
+Object 907 was destroyed! 
+Object 908 was destroyed! 
+Object 909 was destroyed! 
+Object 910 was destroyed! 
+Object 912 was destroyed! 
+Object 914 was destroyed! 
+Object 915 collided with object 916! 
+Object 916 collided with object 915! 
+Object 916 was destroyed! 
+Object 917 collided with object 915! 
+Object 917 collided with object 918! 
+Object 918 was destroyed! 
+Object 919 collided with object 920! 
+Object 919 was destroyed! 
+Object 921 collided with object 920! 
+Object 920 was destroyed! 
+Object 922 collided with object 921! 
+Object 922 collided with object 921! 
+Object 923 was destroyed! 
+Object 924 collided with object 925! 
+Object 925 collided with object 924! 
+Object 924 was destroyed! 
+Object 926 collided with object 925! 
+Object 925 was destroyed! 
+Object 926 was destroyed! 
+Object 927 was destroyed! 
+Object 929 collided with object 928! 
+Object 929 was destroyed! 
+Object 930 collided with object 931! 
+Object 931 was destroyed! 
+Object 932 collided with object 933! 
+Object 933 collided with object 932! 
+Object 932 was destroyed! 
+Object 934 collided with object 933! 
+Object 933 was destroyed! 
+Object 935 collided with object 934! 
+Object 934 was destroyed! 
+Object 935 was destroyed! 
+Object 937 collided with object 936! 
+Object 937 collided with object 936! 
+Object 937 collided with object 936! 
+Object 938 was destroyed! 
+Object 939 collided with object 940! 
+Object 940 was destroyed! 
+Object 941 collided with object 942! 
+Object 941 was destroyed! 
+Object 943 was destroyed! 
+Object 944 collided with object 945! 
+Object 945 collided with object 944! 
+Object 944 was destroyed! 
+Object 945 was destroyed! 
+Object 947 collided with object 946! 
+Object 946 was destroyed! 
+Object 948 collided with object 947! 
+Object 947 was destroyed! 
+Object 950 was destroyed! 
+Object 937 collided with object 930! 
+Object 951 collided with object 952! 
+Object 952 collided with object 951! 
+Object 937 collided with object 930! 
+Object 951 was destroyed! 
+Object 953 collided with object 952! 
+Object 937 collided with object 930! 
+Object 952 collided with object 953! 
+Object 953 collided with object 952! 
+Object 954 collided with object 952! 
+Object 937 collided with object 930! 
+Object 952 collided with object 953! 
+Object 954 was destroyed! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 952 collided with object 953! 
+Object 955 collided with object 956! 
+Object 956 collided with object 955! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 955 was destroyed! 
+Object 957 collided with object 956! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 956 collided with object 957! 
+Object 956 collided with object 958! 
+Object 957 was destroyed! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 956 collided with object 958! 
+Object 956 collided with object 959! 
+Object 958 collided with object 959! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 958 was destroyed! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 959 was destroyed! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 960 was destroyed! 
+Object 962 collided with object 961! 
+Object 930 collided with object 937! 
+Object 937 collided with object 930! 
+Object 961 was destroyed! 
+Object 930 collided with object 937! 
+Object 962 was destroyed! 
+Object 930 collided with object 937! 
+Object 963 was destroyed! 
+Object 965 collided with object 964! 
+Object 930 collided with object 937! 
+Object 964 was destroyed! 
+Object 930 collided with object 937! 
+Object 965 was destroyed! 
+Object 930 collided with object 937! 
+Object 966 was destroyed! 
+Object 968 was destroyed! 
+Object 969 was destroyed! 
+Object 971 collided with object 970! 
+Object 970 was destroyed! 
+Object 971 was destroyed! 
+Object 973 collided with object 972! 
+Object 972 was destroyed! 
+Object 974 collided with object 973! 
+Object 973 was destroyed! 
+Object 974 was destroyed! 
+Object 976 collided with object 975! 
+Object 975 was destroyed! 
+Object 977 collided with object 976! 
+Object 976 was destroyed! 
+Object 978 was destroyed! 
+Object 979 collided with object 980! 
+Object 979 was destroyed! 
+Object 981 collided with object 980! 
+Object 980 was destroyed! 
+Object 981 was destroyed! 
+Object 937 collided with object 915! 
+Object 937 collided with object 915! 
+Object 937 collided with object 915! 
+Object 937 collided with object 915! 
+Object 915 collided with object 937! 
+Object 937 collided with object 915! 
+Object 915 collided with object 937! 
+Object 937 collided with object 915! 
+Object 915 collided with object 937! 
+Object 937 collided with object 915! 
+Object 915 collided with object 937! 
+Object 937 collided with object 915! 
+Object 915 collided with object 937! 
+Object 915 collided with object 937! 
+Object 915 collided with object 937! 
+Object 915 collided with object 937! 
+Object 902 was destroyed! 
+Object 913 was destroyed! 
+Object 917 was destroyed! 
+Object 928 was destroyed! 
+Object 921 was destroyed! 
+Object 911 was destroyed! 
+Object 883 was destroyed! 
+Object 948 was destroyed! 
+Object 900 was destroyed! 
+Object 899 was destroyed! 
+Object 949 was destroyed! 
+Object 936 was destroyed! 
+Object 967 was destroyed! 
+Object 942 was destroyed! 
+Object 953 was destroyed! 
+Object 922 was destroyed! 
+Object 939 was destroyed! 
+Object 887 was destroyed! 
+Object 937 was destroyed! 
+Object 898 was destroyed! 
+Object 952 was destroyed! 
+Object 930 was destroyed! 
+Object 915 was destroyed! 
+Object 977 was destroyed! 
+Object 956 was destroyed! 
+Object 982 was destroyed! 
+Object 983 collided with object 984! 
+Object 983 was destroyed! 
+Object 985 collided with object 984! 
+Object 985 was destroyed! 
+Object 986 collided with object 987! 
+Object 986 was destroyed! 
+Object 987 was destroyed! 
+Object 989 was destroyed! 
+Object 991 collided with object 990! 
+Object 991 collided with object 992! 
+Object 992 was destroyed! 
+Object 993 collided with object 994! 
+Object 993 was destroyed! 
+Object 995 collided with object 994! 
+Object 994 was destroyed! 
+Object 995 was destroyed! 
+Object 996 was destroyed! 
+Object 998 collided with object 997! 
+Object 997 was destroyed! 
+Object 999 collided with object 998! 
+Object 998 was destroyed! 
+Object 999 was destroyed! 
+Object 1001 collided with object 1000! 
+Object 1000 was destroyed! 
+Object 1002 collided with object 1001! 
+Object 1001 was destroyed! 
+Object 1003 collided with object 1002! 
+Object 1003 was destroyed! 
+Object 1004 collided with object 1005! 
+Object 1005 collided with object 1002! 
+Object 1004 was destroyed! 
+Object 1006 was destroyed! 
+Object 1007 collided with object 1008! 
+Object 1007 was destroyed! 
+Object 1009 collided with object 1008! 
+Object 1010 was destroyed! 
+Object 1011 collided with object 1012! 
+Object 1011 was destroyed! 
+Object 1013 was destroyed! 
+Object 1014 was destroyed! 
+Object 1016 collided with object 1015! 
+Object 1015 collided with object 1016! 
+Object 1015 collided with object 1017! 
+Object 1015 collided with object 1018! 
+Object 1017 was destroyed! 
+Object 1018 collided with object 1015! 
+Object 1018 collided with object 1019! 
+Object 1019 was destroyed! 
+Object 1020 collided with object 1021! 
+Object 1020 was destroyed! 
+Object 1022 collided with object 1021! 
+Object 1021 was destroyed! 
+Object 1022 was destroyed! 
+Object 1023 was destroyed! 
+Object 1024 was destroyed! 
+Object 1025 was destroyed! 
+Object 1026 was destroyed! 
+Object 1028 collided with object 1027! 
+Object 1027 was destroyed! 
+Object 1029 collided with object 1028! 
+Object 1028 was destroyed! 
+Object 1029 collided with object 1031! 
+Object 1030 was destroyed! 
+Object 1008 collided with object 1002! 
+Object 1029 collided with object 1031! 
+Object 1029 collided with object 1032! 
+Object 1031 collided with object 1032! 
+Object 1032 collided with object 1029! 
+Object 1032 collided with object 1031! 
+Object 1008 collided with object 1002! 
+Object 1029 collided with object 1032! 
+Object 1029 collided with object 1033! 
+Object 1031 was destroyed! 
+Object 1033 collided with object 1029! 
+Object 1008 collided with object 1002! 
+Object 1029 collided with object 1032! 
+Object 1029 collided with object 1033! 
+Object 1029 collided with object 1034! 
+Object 1032 was destroyed! 
+Object 1034 collided with object 1029! 
+Object 1008 collided with object 1002! 
+Object 1029 collided with object 1033! 
+Object 1029 collided with object 1034! 
+Object 1029 collided with object 1035! 
+Object 1033 was destroyed! 
+Object 1035 collided with object 1029! 
+Object 1035 collided with object 1034! 
+Object 1008 collided with object 1002! 
+Object 1029 collided with object 1034! 
+Object 1029 collided with object 1035! 
+Object 1029 collided with object 1036! 
+Object 1034 collided with object 1035! 
+Object 1035 collided with object 1034! 
+Object 1008 collided with object 1002! 
+Object 1034 collided with object 1035! 
+Object 1036 was destroyed! 
+Object 1008 collided with object 1002! 
+Object 1037 collided with object 1038! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1037 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1038 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1040 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1041 collided with object 1042! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1041 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1042 was destroyed! 
+Object 1044 collided with object 1043! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1043 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1044 was destroyed! 
+Object 1046 collided with object 1045! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1047! 
+Object 1046 collided with object 1045! 
+Object 1046 collided with object 1047! 
+Object 1047 collided with object 1045! 
+Object 1047 collided with object 1046! 
+Object 1002 collided with object 1008! 
+Object 1008 collided with object 1002! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1047! 
+Object 1045 collided with object 1048! 
+Object 1046 collided with object 1045! 
+Object 1046 collided with object 1047! 
+Object 1046 collided with object 1048! 
+Object 1047 collided with object 1029! 
+Object 1048 collided with object 1045! 
+Object 1048 collided with object 1046! 
+Object 1048 collided with object 1047! 
+Object 1002 collided with object 1008! 
+Object 1029 collided with object 1047! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1048! 
+Object 1045 collided with object 1049! 
+Object 1046 collided with object 1045! 
+Object 1046 collided with object 1047! 
+Object 1046 collided with object 1048! 
+Object 1047 collided with object 1029! 
+Object 1048 collided with object 1046! 
+Object 1049 collided with object 1045! 
+Object 1049 collided with object 1046! 
+Object 1002 collided with object 1008! 
+Object 1029 collided with object 1047! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1048! 
+Object 1045 collided with object 1049! 
+Object 1045 collided with object 1050! 
+Object 1046 collided with object 1045! 
+Object 1046 collided with object 1048! 
+Object 1046 collided with object 1049! 
+Object 1047 collided with object 1029! 
+Object 1049 collided with object 1045! 
+Object 1049 collided with object 1046! 
+Object 1050 collided with object 1045! 
+Object 1002 collided with object 1008! 
+Object 1029 collided with object 1047! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1049! 
+Object 1046 collided with object 1045! 
+Object 1050 was destroyed! 
+Object 1002 collided with object 1008! 
+Object 1045 collided with object 1046! 
+Object 1046 collided with object 1045! 
+Object 1002 collided with object 1008! 
+Object 1045 collided with object 1046! 
+Object 1046 collided with object 1045! 
+Object 1051 was destroyed! 
+Object 1053 collided with object 1052! 
+Object 1002 collided with object 1008! 
+Object 1045 collided with object 1046! 
+Object 1046 collided with object 1045! 
+Object 1052 collided with object 1053! 
+Object 1052 collided with object 1054! 
+Object 1053 collided with object 1045! 
+Object 1002 collided with object 1008! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1053! 
+Object 1046 collided with object 1045! 
+Object 1053 collided with object 1045! 
+Object 1054 was destroyed! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1053! 
+Object 1046 collided with object 1045! 
+Object 1053 collided with object 1045! 
+Object 1055 collided with object 1056! 
+Object 1056 collided with object 1055! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1053! 
+Object 1053 collided with object 1045! 
+Object 1055 was destroyed! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1053! 
+Object 1056 was destroyed! 
+Object 1045 collided with object 1046! 
+Object 1045 collided with object 1053! 
+Object 1057 was destroyed! 
+Object 1059 collided with object 1058! 
+Object 1058 was destroyed! 
+Object 1060 collided with object 1059! 
+Object 1059 was destroyed! 
+Object 1061 collided with object 1060! 
+Object 1060 was destroyed! 
+Object 1061 was destroyed! 
+Object 1063 collided with object 1062! 
+Object 1062 was destroyed! 
+Object 1064 collided with object 1063! 
+Object 1063 was destroyed! 
+Object 1065 collided with object 1064! 
+Object 1064 was destroyed! 
+Object 1066 collided with object 1065! 
+Object 1065 was destroyed! 
+Object 990 was destroyed! 
+Object 1005 was destroyed! 
+Object 1012 was destroyed! 
+Object 988 was destroyed! 
+Object 1039 was destroyed! 
+Object 1035 was destroyed! 
+Object 1008 was destroyed! 
+Object 984 was destroyed! 
+Object 1034 was destroyed! 
+Object 1018 was destroyed! 
+Object 1002 was destroyed! 
+Object 1048 was destroyed! 
+Object 1047 was destroyed! 
+Object 1009 was destroyed! 
+Object 1049 was destroyed! 
+Object 1016 was destroyed! 
+Object 1053 was destroyed! 
+Object 991 was destroyed! 
+Object 1052 was destroyed! 
+Object 1066 was destroyed! 
+Object 1015 was destroyed! 
+Object 1046 was destroyed! 
+Object 1045 was destroyed! 
+Object 1029 was destroyed! 
+Object 1067 was destroyed! 
+Object 1068 collided with object 1069! 
+Object 1068 was destroyed! 
+Object 1070 collided with object 1069! 
+Object 1069 was destroyed! 
+Object 1071 collided with object 1070! 
+Object 1070 was destroyed! 
+Object 1071 was destroyed! 
+Object 1072 was destroyed! 
+Object 1074 was destroyed! 
+Object 1075 collided with object 1076! 
+Object 1075 was destroyed! 
+Object 1076 was destroyed! 
+Object 1078 collided with object 1077! 
+Object 1077 was destroyed! 
+Object 1079 collided with object 1078! 
+Object 1078 was destroyed! 
+Object 1080 collided with object 1079! 
+Object 1079 was destroyed! 
+Object 1081 collided with object 1080! 
+Object 1080 was destroyed! 
+Object 1081 was destroyed! 
+Object 1083 collided with object 1082! 
+Object 1083 collided with object 1082! 
+Object 1084 was destroyed! 
+Object 1085 collided with object 1083! 
+Object 1086 was destroyed! 
+Object 1087 was destroyed! 
+Object 1089 collided with object 1088! 
+Object 1088 was destroyed! 
+Object 1090 collided with object 1089! 
+Object 1089 was destroyed! 
+Object 1090 was destroyed! 
+Object 1091 was destroyed! 
+Object 1093 was destroyed! 
+Object 1095 collided with object 1096! 
+Object 1095 collided with object 1097! 
+Object 1097 collided with object 1095! 
+Object 1095 collided with object 1097! 
+Object 1095 collided with object 1098! 
+Object 1098 collided with object 1095! 
+Object 1095 collided with object 1098! 
+Object 1095 collided with object 1099! 
+Object 1098 was destroyed! 
+Object 1095 collided with object 1099! 
+Object 1095 collided with object 1100! 
+Object 1100 collided with object 1095! 
+Object 1100 collided with object 1099! 
+Object 1095 collided with object 1101! 
+Object 1099 was destroyed! 
+Object 1101 collided with object 1095! 
+Object 1101 collided with object 1100! 
+Object 1095 collided with object 1102! 
+Object 1100 was destroyed! 
+Object 1102 collided with object 1095! 
+Object 1102 collided with object 1101! 
+Object 1095 collided with object 1102! 
+Object 1095 collided with object 1103! 
+Object 1101 was destroyed! 
+Object 1095 collided with object 1102! 
+Object 1095 collided with object 1104! 
+Object 1102 collided with object 1095! 
+Object 1103 was destroyed! 
+Object 1095 collided with object 1102! 
+Object 1095 collided with object 1104! 
+Object 1095 collided with object 1105! 
+Object 1105 collided with object 1104! 
+Object 1095 collided with object 1106! 
+Object 1104 was destroyed! 
+Object 1106 collided with object 1105! 
+Object 1095 collided with object 1107! 
+Object 1105 was destroyed! 
+Object 1107 collided with object 1095! 
+Object 1095 collided with object 1107! 
+Object 1095 collided with object 1108! 
+Object 1106 was destroyed! 
+Object 1108 collided with object 1107! 
+Object 1095 collided with object 1107! 
+Object 1095 collided with object 1109! 
+Object 1107 was destroyed! 
+Object 1109 collided with object 1095! 
+Object 1109 collided with object 1108! 
+Object 1095 collided with object 1109! 
+Object 1108 was destroyed! 
+Object 1110 collided with object 1109! 
+Object 1095 collided with object 1109! 
+Object 1109 collided with object 1095! 
+Object 1109 collided with object 1110! 
+Object 1109 collided with object 1111! 
+Object 1110 was destroyed! 
+Object 1095 collided with object 1109! 
+Object 1109 collided with object 1095! 
+Object 1109 collided with object 1111! 
+Object 1109 collided with object 1112! 
+Object 1112 collided with object 1109! 
+Object 1095 collided with object 1109! 
+Object 1109 collided with object 1095! 
+Object 1111 was destroyed! 
+Object 1095 collided with object 1109! 
+Object 1109 collided with object 1095! 
+Object 1113 was destroyed! 
+Object 1095 collided with object 1109! 
+Object 1109 collided with object 1095! 
+Object 1114 collided with object 1115! 
+Object 1115 collided with object 1095! 
+Object 1095 collided with object 1109! 
+Object 1095 collided with object 1115! 
+Object 1109 collided with object 1095! 
+Object 1114 was destroyed! 
+Object 1095 collided with object 1109! 
+Object 1095 collided with object 1115! 
+Object 1109 collided with object 1095! 
+Object 1115 collided with object 1095! 
+Object 1116 was destroyed! 
+Object 1095 collided with object 1109! 
+Object 1095 collided with object 1115! 
+Object 1115 collided with object 1095! 
+Object 1115 collided with object 1109! 
+Object 1117 collided with object 1118! 
+Object 1118 collided with object 1117! 
+Object 1095 collided with object 1115! 
+Object 1115 collided with object 1095! 
+Object 1115 collided with object 1109! 
+Object 1117 was destroyed! 
+Object 1095 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1118 was destroyed! 
+Object 1120 collided with object 1119! 
+Object 1109 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1119 was destroyed! 
+Object 1121 collided with object 1120! 
+Object 1109 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1120 was destroyed! 
+Object 1122 collided with object 1121! 
+Object 1109 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1121 was destroyed! 
+Object 1109 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1122 was destroyed! 
+Object 1109 collided with object 1115! 
+Object 1115 collided with object 1109! 
+Object 1123 was destroyed! 
+Object 1125 collided with object 1124! 
+Object 1109 collided with object 1115! 
+Object 1109 collided with object 1115! 
+Object 1126 was destroyed! 
+Object 1127 collided with object 1125! 
+Object 1128 was destroyed! 
+Object 1127 collided with object 1125! 
+Object 1130 collided with object 1129! 
+Object 1127 collided with object 1125! 
+Object 1129 was destroyed! 
+Object 1125 collided with object 1127! 
+Object 1130 was destroyed! 
+Object 1132 collided with object 1131! 
+Object 1131 was destroyed! 
+Object 1133 was destroyed! 
+Object 1134 collided with object 1135! 
+Object 1135 collided with object 1132! 
+Object 1134 was destroyed! 
+Object 1136 was destroyed! 
+Object 1138 was destroyed! 
+Object 1139 collided with object 1140! 
+Object 1139 was destroyed! 
+Object 1141 was destroyed! 
+Object 1142 collided with object 1143! 
+Object 1143 collided with object 1142! 
+Object 1142 was destroyed! 
+Object 1143 was destroyed! 
+Object 1145 was destroyed! 
+Object 1146 collided with object 1147! 
+Object 1147 collided with object 1146! 
+Object 1146 was destroyed! 
+Object 1148 collided with object 1147! 
+Object 1147 was destroyed! 
+Object 1137 collided with object 1125! 
+Object 1148 was destroyed! 
+Object 1137 collided with object 1125! 
+Object 1140 collided with object 1132! 
+Object 1149 was destroyed! 
+Object 1125 collided with object 1137! 
+Object 1137 collided with object 1125! 
+Object 1140 collided with object 1132! 
+Object 1150 was destroyed! 
+Object 1152 collided with object 1151! 
+Object 1125 collided with object 1137! 
+Object 1137 collided with object 1125! 
+Object 1140 collided with object 1132! 
+Object 1151 was destroyed! 
+Object 1125 collided with object 1137! 
+Object 1132 collided with object 1140! 
+Object 1140 collided with object 1132! 
+Object 1152 was destroyed! 
+Object 1125 collided with object 1137! 
+Object 1132 collided with object 1140! 
+Object 1140 collided with object 1132! 
+Object 1153 was destroyed! 
+Object 1132 collided with object 1140! 
+Object 1140 collided with object 1132! 
+Object 1154 collided with object 1156! 
+Object 1155 was destroyed! 
+Object 1132 collided with object 1140! 
+Object 1156 collided with object 1157! 
+Object 1157 collided with object 1156! 
+Object 1132 collided with object 1140! 
+Object 1156 was destroyed! 
+Object 1157 was destroyed! 
+Object 1158 was destroyed! 
+Object 1154 collided with object 1095! 
+Object 1095 collided with object 1154! 
+Object 1154 collided with object 1095! 
+Object 1095 collided with object 1154! 
+Object 1154 collided with object 1095! 
+Object 1095 collided with object 1154! 
+Object 1135 collided with object 1102! 
+Object 1135 collided with object 1102! 
+Object 1102 collided with object 1135! 
+Object 1135 collided with object 1102! 
+Object 1102 collided with object 1135! 
+Object 1135 collided with object 1102! 
+Object 1102 collided with object 1135! 
+Object 1102 collided with object 1135! 
+Object 1085 was destroyed! 
+Object 1073 was destroyed! 
+Object 1096 was destroyed! 
+Object 1097 was destroyed! 
+Object 1094 was destroyed! 
+Object 1082 was destroyed! 
+Object 1092 was destroyed! 
+Object 1112 was destroyed! 
+Object 1127 was destroyed! 
+Object 1124 was destroyed! 
+Object 1137 was destroyed! 
+Object 1140 was destroyed! 
+Object 1135 was destroyed! 
+Object 1083 was destroyed! 
+Object 1115 was destroyed! 
+Object 1144 was destroyed! 
+Object 1132 was destroyed! 
+Object 1125 was destroyed! 
+Object 1102 was destroyed! 
+Object 1154 was destroyed! 
+Object 1109 was destroyed! 
+Object 1095 was destroyed! 
+Object 1159 was destroyed! 
+Object 1160 collided with object 1161! 
+Object 1161 collided with object 1160! 
+Object 1161 was destroyed! 
+Object 1162 was destroyed! 
+Object 1163 was destroyed! 
+Object 1164 was destroyed! 
+Object 1165 was destroyed! 
+Object 1167 collided with object 1166! 
+Object 1166 was destroyed! 
+Object 1168 collided with object 1167! 
+Object 1167 was destroyed! 
+Object 1168 was destroyed! 
+Object 1170 was destroyed! 
+Object 1171 collided with object 1172! 
+Object 1171 was destroyed! 
+Object 1173 collided with object 1172! 
+Object 1172 was destroyed! 
+Object 1174 collided with object 1173! 
+Object 1173 was destroyed! 
+Object 1174 was destroyed! 
+Object 1175 was destroyed! 
+Object 1177 was destroyed! 
+Object 1178 collided with object 1179! 
+Object 1179 was destroyed! 
+Object 1181 collided with object 1180! 
+Object 1180 was destroyed! 
+Object 1182 collided with object 1181! 
+Object 1182 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1185 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1186 was destroyed! 
+Object 1188 collided with object 1187! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1187 was destroyed! 
+Object 1189 collided with object 1188! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1188 was destroyed! 
+Object 1190 collided with object 1189! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1190! 
+Object 1189 collided with object 1191! 
+Object 1190 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1191! 
+Object 1189 collided with object 1192! 
+Object 1191 collided with object 1189! 
+Object 1191 collided with object 1192! 
+Object 1192 collided with object 1189! 
+Object 1192 collided with object 1191! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1191! 
+Object 1189 collided with object 1192! 
+Object 1189 collided with object 1193! 
+Object 1191 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1192! 
+Object 1189 collided with object 1194! 
+Object 1192 was destroyed! 
+Object 1194 collided with object 1189! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1194! 
+Object 1189 collided with object 1195! 
+Object 1193 was destroyed! 
+Object 1195 collided with object 1189! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1194! 
+Object 1189 collided with object 1195! 
+Object 1189 collided with object 1196! 
+Object 1194 was destroyed! 
+Object 1196 collided with object 1189! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1195! 
+Object 1189 collided with object 1196! 
+Object 1189 collided with object 1197! 
+Object 1195 was destroyed! 
+Object 1197 collided with object 1189! 
+Object 1183 collided with object 1184! 
+Object 1184 collided with object 1183! 
+Object 1189 collided with object 1196! 
+Object 1189 collided with object 1197! 
+Object 1189 collided with object 1198! 
+Object 1197 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1189 collided with object 1198! 
+Object 1189 collided with object 1199! 
+Object 1198 collided with object 1189! 
+Object 1198 collided with object 1199! 
+Object 1183 collided with object 1184! 
+Object 1189 collided with object 1198! 
+Object 1189 collided with object 1200! 
+Object 1198 collided with object 1189! 
+Object 1199 was destroyed! 
+Object 1183 collided with object 1184! 
+Object 1189 collided with object 1198! 
+Object 1189 collided with object 1200! 
+Object 1189 collided with object 1201! 
+Object 1200 collided with object 1189! 
+Object 1200 collided with object 1201! 
+Object 1201 collided with object 1189! 
+Object 1201 collided with object 1200! 
+Object 1183 collided with object 1184! 
+Object 1189 collided with object 1200! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1202! 
+Object 1201 collided with object 1189! 
+Object 1201 collided with object 1202! 
+Object 1202 collided with object 1189! 
+Object 1202 collided with object 1200! 
+Object 1202 collided with object 1201! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1202! 
+Object 1189 collided with object 1203! 
+Object 1201 collided with object 1189! 
+Object 1201 collided with object 1202! 
+Object 1201 collided with object 1203! 
+Object 1203 collided with object 1189! 
+Object 1203 collided with object 1201! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1203! 
+Object 1189 collided with object 1204! 
+Object 1201 collided with object 1189! 
+Object 1201 collided with object 1203! 
+Object 1201 collided with object 1204! 
+Object 1203 was destroyed! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1204! 
+Object 1189 collided with object 1205! 
+Object 1201 collided with object 1189! 
+Object 1204 collided with object 1205! 
+Object 1205 collided with object 1204! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1206! 
+Object 1201 collided with object 1189! 
+Object 1204 was destroyed! 
+Object 1189 collided with object 1201! 
+Object 1189 collided with object 1207! 
+Object 1201 collided with object 1189! 
+Object 1205 was destroyed! 
+Object 1189 collided with object 1201! 
+Object 1201 collided with object 1189! 
+Object 1206 was destroyed! 
+Object 1189 collided with object 1201! 
+Object 1201 collided with object 1189! 
+Object 1207 was destroyed! 
+Object 1209 collided with object 1208! 
+Object 1189 collided with object 1201! 
+Object 1201 collided with object 1189! 
+Object 1208 was destroyed! 
+Object 1210 collided with object 1209! 
+Object 1189 collided with object 1201! 
+Object 1209 was destroyed! 
+Object 1210 was destroyed! 
+Object 1212 collided with object 1189! 
+Object 1189 collided with object 1212! 
+Object 1211 was destroyed! 
+Object 1189 collided with object 1212! 
+Object 1212 was destroyed! 
+Object 1214 collided with object 1213! 
+Object 1213 was destroyed! 
+Object 1215 collided with object 1214! 
+Object 1214 was destroyed! 
+Object 1216 collided with object 1215! 
+Object 1215 was destroyed! 
+Object 1217 collided with object 1189! 
+Object 1189 collided with object 1217! 
+Object 1216 was destroyed! 
+Object 1189 collided with object 1217! 
+Object 1218 was destroyed! 
+Object 1219 collided with object 1189! 
+Object 1219 collided with object 1220! 
+Object 1220 collided with object 1219! 
+Object 1219 was destroyed! 
+Object 1221 collided with object 1220! 
+Object 1220 was destroyed! 
+Object 1221 was destroyed! 
+Object 1223 collided with object 1222! 
+Object 1222 collided with object 1223! 
+Object 1223 collided with object 1222! 
+Object 1224 collided with object 1222! 
+Object 1222 collided with object 1223! 
+Object 1223 collided with object 1222! 
+Object 1224 collided with object 1189! 
+Object 1224 collided with object 1222! 
+Object 1222 collided with object 1223! 
+Object 1222 collided with object 1224! 
+Object 1224 collided with object 1222! 
+Object 1225 was destroyed! 
+Object 1222 collided with object 1223! 
+Object 1222 collided with object 1224! 
+Object 1224 collided with object 1222! 
+Object 1226 collided with object 1227! 
+Object 1226 was destroyed! 
+Object 1228 collided with object 1227! 
+Object 1227 was destroyed! 
+Object 1228 collided with object 1230! 
+Object 1229 was destroyed! 
+Object 1228 collided with object 1230! 
+Object 1230 collided with object 1228! 
+Object 1228 collided with object 1230! 
+Object 1230 was destroyed! 
+Object 1202 collided with object 1183! 
+Object 1202 collided with object 1183! 
+Object 1202 collided with object 1183! 
+Object 1202 collided with object 1183! 
+Object 1183 collided with object 1202! 
+Object 1202 collided with object 1183! 
+Object 1183 collided with object 1202! 
+Object 1183 collided with object 1202! 
+Object 1183 collided with object 1202! 
+Object 1169 was destroyed! 
+Object 1178 was destroyed! 
+Object 1176 was destroyed! 
+Object 1202 was destroyed! 
+Object 1181 was destroyed! 
+Object 1184 was destroyed! 
+Object 1183 was destroyed! 
+Object 1217 was destroyed! 
+Object 1223 was destroyed! 
+Object 1196 was destroyed! 
+Object 1200 was destroyed! 
+Object 1160 was destroyed! 
+Object 1198 was destroyed! 
+Object 1224 was destroyed! 
+Object 1222 was destroyed! 
+Object 1201 was destroyed! 
+Object 1228 was destroyed! 
+Object 1189 was destroyed! 

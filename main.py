@@ -17,7 +17,7 @@ log_file_name = f'log_{time.time()}.txt'
 # open the log file in write mode
 with open(f'logs/{log_file_name}', 'w') as log_file:
     # write the log message to the file
-    log_file.write('This is a log message')
+    log_file.write('Log')
 
 class Object:
     def __init__(self, name, x, y, vx, vy, mass):
@@ -66,40 +66,9 @@ class Flatland:
         self.counter += 1
         return self.counter
 
-      # def update(self):
-    #     for obj in self.objects:
-    #         # check if the object is outside the bounds of the simulation
-    #         if obj.x < 0 or obj.x > self.width or obj.y < 0 or obj.y > self.height:
-    #             # if the object is outside the bounds, remove it from the list of objects
-    #             self.objects.remove(obj)
-    #             # print a message if the object is destroyed +log
-    #             with open(r'C:\Users\Isa\Desktop\logs\{log_file_name}', 'w') as log_file:
-    #
-    #                 log_file.write(f'Object {obj.name} was destroyed! \n')
-    #             print(f'Object {obj.name} was destroyed!')
-    #             continue
-    #
-    #
-    #         # calculate the forces acting on the object
-    #         forces = self.calculateForces(obj)
-    #         obj.update(forces)
-    #         # check for collisions with other objects
-    #         for other in self.objects:
-    #             if other != obj:  # skip the current object
-    #                 # calculate the distance between the two objects
-    #                 dx = other.x - obj.x
-    #                 dy = other.y - obj.y
-    #                 r = math.sqrt(dx ** 2 + dy ** 2)
-    #
-    #                 # set the collision threshold (adjust as needed)
-    #                 collision_threshold = 1
-    #
-    #                 if r < collision_threshold:
-    #                     # print+log a message if the objects collide
-    #                     log_file.write(f'Object {obj.name} collided with object {other.name}! \n')
-    #                     print(f'Object {obj.name} collided with object {other.name}!')
+
     def update(self):
-        # open the log file in append mode
+        # open the log file in append
         with open(f'logs/{log_file_name}', 'a') as log_file:
             for obj in self.objects:
                 # check if the object is outside the bounds of the simulation
@@ -158,19 +127,14 @@ class Flatland:
         for obj in self.objects:
             output += f'Object {obj.name}: x = {obj.x}, y = {obj.y}, vx = {obj.vx}, vy = {obj.vy}, mass = {obj.mass}\n'
         return output
-        # generate the log file name with the current time
+
         log_file_name = f'log_{time.time()}.txt'
-        # open the log file in write mode
-        # with open(r'C:\Users\Isa\Desktop\logs\{log_file_name}', 'w') as log_file:
-            # write the state of the simulation to the file
-        log_file.write('Objects in simulation: \n')
         for obj in self.objects:
             log_file.write(f'{obj.name}: x = {obj.x}, y = {obj.y}, vx = {obj.vx}, vy = {obj.vy}, mass = {obj.mass} \n')
         for obj in self.objects:
              print(f'Object {obj.name}: x = {obj.x}, y = {obj.y}, vx = {obj.vx}, vy = {obj.vy}, mass = {obj.mass}')
 
-        # create a Flatland instance with a width and height of 100.
-
+# create a Flatland instance with a width and height of 100.
 flatland_sim = Flatland(100, 100)
 
 while True:
@@ -182,7 +146,6 @@ while True:
     flatland_sim.update()
 
     with open(r'C:\Users\Isa\Desktop\logs\log.txt', 'a') as file:
-        file.write('Simulation results:\n')
         file.write(flatland_sim.render())
 
     # render Flatland
